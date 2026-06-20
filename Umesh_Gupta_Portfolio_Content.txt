@@ -1,0 +1,156 @@
+UMESH GUPTA — PORTFOLIO CONTENT
+
+=========================================
+BASIC INFORMATION
+=========================================
+Name: Umesh Gupta
+Role: Senior Front-End Developer (10+ Years Experience)
+Location: Ahmedabad, India
+Email: umeshlgupta1984@gmail.com
+Phone: +91 812-855-6609
+Address: A - 404 Vananta Godrej Garden City, Near Global international school, Jagatpur, Ahmedabad - 382470
+
+Overview:
+Senior Front-End Developer with 10+ years building high-performance, pixel-perfect interfaces in HTML5, CSS3, JS, Shopify, and WordPress.
+
+Key Roles / Titles:
+- HTML5 and CSS3 Expert
+- Tailwindcss and SASS Expert
+- Knowledge in wordpress and shopify
+
+
+=========================================
+01 — IDENTITY (ABOUT ME)
+=========================================
+Title: Front-End, Sharpened.
+
+Bio:
+Results-driven Senior Front-End Developer with 10+ years of hands-on experience delivering high-performance, pixel-perfect web interfaces across e-commerce, SaaS, and corporate platforms.
+
+Proven expertise in HTML5, CSS3, JavaScript/jQuery, Tailwind CSS, Bootstrap, SASS, Shopify, and WordPress. I consistently manage multiple simultaneous projects, meet tight deadlines, and mentor junior developers to maintain code quality and team velocity.
+
+Passionate about clean architecture and cross-browser compatibility.
+
+Key Statistics:
+- Years Experience: 10+ Years
+- Major Projects: 50+ Projects
+- Companies: 4 Companies
+- Zero-Defect Rate: 90%
+
+
+=========================================
+02 — TOOLKIT (SKILLS)
+=========================================
+Skills Categories:
+- Front-End Core: HTML5, CSS3, JavaScript ES6+, jQuery, SASS / SCSS
+- Frameworks: Bootstrap 4 / 5, Tailwind CSS
+- CMS & E-Commerce: Shopify, WordPress
+- Design Tools: Photoshop, Illustrator, Figma
+- Dev Tools: Git, VS Code, Chrome DevTools
+
+Proficiency Metrics:
+- HTML5: 99%
+- CSS3: 99%
+- SASS: 95%
+- Bootstrap: 95%
+- JavaScript / jQuery: 90%
+- Tailwind CSS: 90%
+- Photoshop: 80%
+- Illustrator: 75%
+- Shopify: 50%
+- WordPress: 50%
+
+
+=========================================
+03 — TRAJECTORY (EXPERIENCE)
+=========================================
+
+1. Multidots
+URL: https://www.multidots.com/
+Period: Jan 2021 — 2026
+Role: Senior Front-End Developer
+Responsibilities & Achievements:
+- Lead front-end development across 15+ client projects simultaneously.
+- Built responsive, accessible interfaces using HTML5, CSS3, Tailwind, jQuery, Bootstrap, SASS — reduced avg page load time by ~35%.
+- Developed and customised Shopify and WordPress themes from scratch.
+- Collaborated cross-functionally in Agile sprints, improving team delivery speed by 20%.
+- Mentored junior developers on best practices, code reviews, and component architecture.
+
+2. Sibyll Software
+URL: http://www.sibyllsoftware.com/
+Period: 2018 — 2020
+Role: Front-End Developer
+Responsibilities & Achievements:
+- Designed and developed 20+ HTML5/CSS3 web applications.
+- Translated wireframes and UI/UX mockups into clean, maintainable code — zero-defect delivery on 90% of projects.
+- Installed, configured, and custom-coded Shopify themes.
+- Performed cross-browser testing and performance optimisation.
+
+3. JD Softtech
+URL: http://www.jdsofttech.com/
+Period: 2016 — 2018
+Role: Front-End Developer
+Responsibilities & Achievements:
+- Developed responsive HTML5/CSS3 layouts and jQuery-powered interactive components.
+- Collaborated with WordPress backend developers.
+- Reduced CSS/JS bundle sizes by 25% through refactoring and minification.
+
+4. PixieLit Studios
+URL: http://www.pixielit.com/
+Period: 2014 — 2016
+Role: Junior Front-End Developer
+Responsibilities & Achievements:
+- Built HTML5, CSS3, and jQuery interfaces under senior guidance.
+- Ensured technical feasibility of UI/UX designs.
+- Delivered 10+ websites for small businesses.
+
+
+=========================================
+04 — SELECTED OUTPUT (BUILT BY ME)
+=========================================
+
+Shopify Projects:
+- neurometrx.myshopify.com (https://neurometrx.myshopify.com/)
+- wholisticpetorganicscom.myshopify.com (https://wholisticpetorganicscom.myshopify.com/)
+- patchespar3.myshopify.com (https://patchespar3.myshopify.com/)
+- cocoathrill.myshopify.com (https://cocoathrill.myshopify.com/)
+- candmhorseshoessales.myshopify.com (https://candmhorseshoessales.myshopify.com/)
+
+WordPress Projects:
+- www.jdsofttech.com (http://www.jdsofttech.com/)
+- www.pixielit.com (http://www.pixielit.com/)
+- www.sarvajal.com (http://www.sarvajal.com/)
+- coastalcarepharmacy.ca/home.html (http://coastalcarepharmacy.ca/home.html)
+- leaft.la (http://leaft.la/)
+- grandgopherboards.com (http://grandgopherboards.com/)
+- www.hvacclasses.org (http://www.hvacclasses.org/)
+- www.abuvmedia.com (http://www.abuvmedia.com/)
+- www.bestofcollegesonline.com (http://www.bestofcollegesonline.com/)
+
+Corporate Projects:
+- www.greatdayimprovements.com (https://www.greatdayimprovements.com/)
+- www.thisoldhouse.com (https://www.thisoldhouse.com/)
+- shockerhitch.com (https://shockerhitch.com/)
+- www.foil-pans.com (https://www.foil-pans.com/)
+- www.pactogo.com (https://www.pactogo.com/)
+
+
+=========================================
+05 — VOICES (LANGUAGES)
+=========================================
+- Gujarati: 100% (Native)
+- Hindi: 100% (Native / Fluent)
+- English: 70% (Conversational · Strong technical reading)
+
+
+=========================================
+06 — CONTACT & ENGAGEMENT INFO
+=========================================
+- Phone: +91 812-855-6609
+- Email: umeshlgupta1984@gmail.com
+- Location: A - 404 Vananta Godrej Garden City, Near Global international school, Jagatpur, Ahmedabad - 382470
+- Availability/Role preferences: Open to senior front-end roles, freelance Shopify / WordPress builds, and long-term collaborations. Reach out — I usually reply within a day.
+
+-----------------------------------------
+© 2026 Umesh Gupta · All rights reserved
+-----------------------------------------

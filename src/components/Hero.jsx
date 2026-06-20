@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 
-export default function Hero() {
+export default function Hero({ isLoaded }) {
   const heroRef = useRef();
   const labelRef = useRef();
   const name1Ref = useRef();
@@ -10,28 +10,30 @@ export default function Hero() {
   const ctaRef = useRef();
 
   useEffect(() => {
+    if (!isLoaded) return;
+
     const ctx = gsap.context(() => {
-      const tl = gsap.timeline({ delay: 2.8 });
+      const tl = gsap.timeline({ delay: 0.1 });
 
       tl.from(labelRef.current, {
-        y: 20, opacity: 0, duration: 1, ease: 'power3.out',
+        y: 20, opacity: 0, duration: 0.8, ease: 'power3.out',
       })
       .from(name1Ref.current, {
-        y: 30, opacity: 0, duration: 1.1, ease: 'power3.out',
-      }, '-=0.6')
-      .from(name2Ref.current, {
-        y: 30, opacity: 0, duration: 1.1, ease: 'power3.out',
-      }, '-=0.7')
-      .from(taglineRef.current, {
-        y: 40, opacity: 0, duration: 0.8, ease: 'power3.out',
+        y: 30, opacity: 0, duration: 0.9, ease: 'power3.out',
       }, '-=0.5')
+      .from(name2Ref.current, {
+        y: 30, opacity: 0, duration: 0.9, ease: 'power3.out',
+      }, '-=0.6')
+      .from(taglineRef.current, {
+        y: 40, opacity: 0, duration: 0.7, ease: 'power3.out',
+      }, '-=0.4')
       .from(ctaRef.current.children, {
-        y: 30, opacity: 0, duration: 0.7, stagger: 0.15, ease: 'power3.out',
+        y: 30, opacity: 0, duration: 0.6, stagger: 0.12, ease: 'power3.out',
       }, '-=0.3');
     }, heroRef);
 
     return () => ctx.revert();
-  }, []);
+  }, [isLoaded]);
 
   const scrollTo = (e, selector) => {
     e.preventDefault();

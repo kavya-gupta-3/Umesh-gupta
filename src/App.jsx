@@ -88,7 +88,7 @@ export default function App() {
 
       {/* Main Content — 600vh scroll container */}
       <div className="scroll-container">
-        <Hero />
+        <Hero isLoaded={loaded} />
 
         <About />
 

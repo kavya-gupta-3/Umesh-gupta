@@ -72,11 +72,13 @@ export default function Experience() {
         scrollTrigger: { trigger: sectionRef.current, start: 'top 80%' }
       });
 
+      const isMobile = window.innerWidth <= 768;
       itemsRef.current.forEach((item, i) => {
         if (item) {
           const isOdd = i % 2 === 0;
           gsap.from(item, {
-            x: isOdd ? -60 : 60,
+            x: isMobile ? 0 : (isOdd ? -60 : 60),
+            y: isMobile ? 30 : 0,
             opacity: 0,
             duration: 1,
             ease: 'power3.out',

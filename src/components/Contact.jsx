@@ -30,13 +30,22 @@ export default function Contact() {
         scrollTrigger: { trigger: sectionRef.current, start: 'top 80%' }
       });
 
+      const isMobile = window.innerWidth <= 768;
       gsap.from(infoRef.current, {
-        x: -60, opacity: 0, duration: 1, ease: 'power3.out',
+        x: isMobile ? 0 : -60,
+        y: isMobile ? 30 : 0,
+        opacity: 0,
+        duration: 1,
+        ease: 'power3.out',
         scrollTrigger: { trigger: sectionRef.current, start: 'top 75%' }
       });
 
       gsap.from(ctasRef.current, {
-        x: 60, opacity: 0, duration: 1, ease: 'power3.out',
+        x: isMobile ? 0 : 60,
+        y: isMobile ? 30 : 0,
+        opacity: 0,
+        duration: 1,
+        ease: 'power3.out',
         scrollTrigger: { trigger: sectionRef.current, start: 'top 75%' }
       });
 
